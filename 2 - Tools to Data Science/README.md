@@ -29,7 +29,6 @@ This course teaches about the popular tools in Data Science and how to use them.
 - Practice Quiz - Packages, APIs, Data Sets, Models
 - Graded Quiz
 
-
 #### Week 2: Open Source Tools
 - Introduction to Jupyter Notebook
 - Getting Started with Jupyter
@@ -47,7 +46,6 @@ This course teaches about the popular tools in Data Science and how to use them.
 - Practice Quiz - RStudio IDE
 - Practice Quiz - GitHub
 - Graded Quiz
-
 
 #### Week 3: IBM Tools for Data Science 
 - What is IBM Watson Studio?
@@ -69,16 +67,12 @@ This course teaches about the popular tools in Data Science and how to use them.
 - Practice Quiz - Other IBM Tools
 - Graded Quiz
 
-
 ### Week 4: Final Assignment: Create and Share Your Jupyter Notebook
-Demonstrate your skills by creating and configuring a Jupyter Notebook.
-
+Demonstrate your skills by creating and configuring a Jupyter Notebook.<br><br><br><br>
 
 ## 🏆 Certificate 
 To verify the certificates, click the images to follow the links.
 <p align="middle">
-  <a href="https://coursera.org/share/ead5bc32370ce142cf655ca247b39c4b"><img src="https://user-images.githubusercontent.com/8434441/198092864-17e4e109-0ec1-4384-b050-c3ee0d4a7b28.png" height="400"></a>
-  <a href="https://www.credly.com/badges/23c94931-4e65-4693-9041-ef62b23a6096"><img src="https://user-images.githubusercontent.com/8434441/198095256-0b9705f9-e101-40f1-a5cc-d2738c6339db.png" height="400"></a>
+  <a href="https://coursera.org/share/ead5bc32370ce142cf655ca247b39c4b"><img src="https://user-images.githubusercontent.com/8434441/198135782-b9c9487f-99fc-451d-9ca7-afa70303e2b1.png" height="400"></a>  
+  <a href="https://www.credly.com/badges/23c94931-4e65-4693-9041-ef62b23a6096"><img src="https://user-images.githubusercontent.com/8434441/198134470-e8fc26ac-e606-4167-afd3-895fad40be00.png" height="400"></a>
 </p>
-
-
