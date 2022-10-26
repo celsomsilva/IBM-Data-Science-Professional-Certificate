@@ -62,5 +62,8 @@ Several data scientists share their insights and experiences in Data Science. Th
 ## 🏆 Certificate 
 To verify the certificates, click the images to follow the links.
 <p align="middle">
-  <a href="https://coursera.org/share/2eba347958d44acf4812532cb646991c"><img src="https://user-images.githubusercontent.com/8434441/197364110-47402f31-d507-4d2b-ada2-f3d40950b7b8.png" height="430"></a>
+  <a href="https://coursera.org/share/fc6414fbd3299902d096e489e1d00161"><img src="https://user-images.githubusercontent.com/8434441/198092864-17e4e109-0ec1-4384-b050-c3ee0d4a7b28.png" height="400"></a>
+    <a href="https://www.credly.com/badges/4b604580-d96a-45cb-b024-f92fbb215c8b/public_url"><img src="https://user-images.githubusercontent.com/8434441/198095256-0b9705f9-e101-40f1-a5cc-d2738c6339db.png" height="400"></a>
 </p>
+![course1](https://user-image![data-science-orientation](https://user-images.githubusercontent.com/8434441/198095256-0b9705f9-e101-40f1-a5cc-d2738c6339db.png)
+s.githubusercontent.com/8434441/198092864-17e4e109-0ec1-4384-b050-c3ee0d4a7b28.png)
